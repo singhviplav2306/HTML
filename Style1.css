@@ -1,0 +1,26 @@
+.top{
+height: 80px;
+    width: 100%;
+  background-color: red;
+}
+
+.div1{
+height: 150px;
+    width: 33.3%;
+  background-color: green;
+    float: left;
+}
+.div2{
+height: 150px;
+    width: 33.3%;
+  background-color: teal;
+        float: left;
+
+}
+.div3{
+height: 150px;
+    width: 33.3%;
+  background-color: blue;
+        float: left;
+
+}
