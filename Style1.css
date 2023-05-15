@@ -1,7 +1,7 @@
 .top{
 height: 100px;
     width: 100%;
-  background-color: #cbe3e7;
+  background-color: greenyellow;
 float: left;
 }
 
@@ -22,13 +22,13 @@ height: 600px;
 .div3{
 height: 600px;
     width: 60%;
-  background-color: blue;
+  background-color: lightskyblue;
         float: left;
-
-
 }
 
-
+a{
+    text-decoration: none;
+}
 
 section {
   display: none;
