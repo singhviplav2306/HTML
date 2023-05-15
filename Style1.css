@@ -1,14 +1,14 @@
 .top{
 height: 100px;
     width: 100%;
-  background-color: red;
+  background-color: #cbe3e7;
 float: left;
 }
 
 .div1{
 height: 600px;
     width: 20%;
-  background-color: green;
+  background-color: orange;
     float: left;
 }
 .div2{
@@ -26,4 +26,14 @@ height: 600px;
         float: left;
 
 
+}
+
+
+
+section {
+  display: none;
+}
+
+section:target {
+  display: block;
 }
