@@ -28,6 +28,7 @@ height: 600px;
 
 a{
     text-decoration: none;
+    
 }
 
 section {
@@ -37,3 +38,25 @@ section {
 section:target {
   display: block;
 }
+
+img {
+  border-radius: 100%;   
+    width: 30px;
+    height: 30px;
+}
+
+
+
+p{
+    margin-left: 50px;
+    font-size: 12px;
+    margin-top: -10px;
+    
+}
+
+
+
+
+
+
+
